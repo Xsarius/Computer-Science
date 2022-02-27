@@ -1,0 +1,9 @@
+Exercise 13 
+
+Generate by random a set of n points in 2D Cartesian Coordinates System. 
+Find two different pentagons enveloping all of set of the points and connected to the set (there is at least one point on each side).
+Check wich pentagons has a smaller area. 
+Use functions for reading, printing appropriate data.
+Use local variables.
+Prepare an appropriate graph in Excel.
+Prepare a written report using MS WORD.
